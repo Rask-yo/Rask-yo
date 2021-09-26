@@ -1,6 +1,8 @@
 ### Hi there, I'm Rares - aka [Rask][website] 👋
 
+![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=red)
 [![Website](https://img.shields.io/website?label=Rask.tk&style=for-the-badge&url=https%3A%2F%2Frask.tk)](https://rask.tk)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=red)
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/0_rask_0/)
 
 ## I'm a Developer/Programer!!
@@ -32,8 +34,10 @@
 <br />
 
 ---
+## :chart: GitHub Stats
 
 <img align="left" alt="Rask`s Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rask-yo&show_icons=true&hide_border=true" />
+![SummerSoldier's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=synthwave&layout=compact&langs_count=8)
 
 
 
