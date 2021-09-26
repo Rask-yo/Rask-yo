@@ -36,10 +36,8 @@
 ---
 ## :chart: GitHub Stats
 
-<img align="left" alt="Rask`s Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rask-yo&show_icons=true&hide_border=true" />
-<a href="https://github.com/Summer-16">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=synthwave&layout=compact&langs_count=8" />
-</a>
+<img align="center" alt="Rask`s Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rask-yo&show_icons=true&hide_border=true" />
+
 
 
 
