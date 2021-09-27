@@ -42,8 +42,10 @@
 <img align="left" alt="Rask`s Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rask-yo&show_icons=true&hide_border=true" />
 
 <br />
+
 ---
 
+<br />
 
 
 
@@ -56,10 +58,12 @@
 
 ---
 
+<br />
 ## ❤ Donating
 
 [![](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/raskyo)
 
+<br />
 
 
 
