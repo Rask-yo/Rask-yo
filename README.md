@@ -38,8 +38,8 @@
 ## :chart: GitHub Stats
 
 
-<img align="center" alt="Rask`s Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Rask-yo" />
-<img align="center" alt="Rask`s Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rask-yo&show_icons=true&hide_border=true" />
+<img align="right" alt="Rask`s Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Rask-yo" />
+<img align="left" alt="Rask`s Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rask-yo&show_icons=true&hide_border=true" />
 
 
 
