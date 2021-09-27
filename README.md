@@ -4,6 +4,7 @@
 [![Website](https://img.shields.io/website?label=Rask.tk&style=for-the-badge&url=https%3A%2F%2Frask.tk)](https://rask.tk)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=red)
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/0_rask_0/)
+[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC1eYZ-3az-5t2EA6tUnP92g)
 
 ## I'm a Developer/Programer!!
 
@@ -36,6 +37,8 @@
 ---
 ## :chart: GitHub Stats
 
+
+<img align="center" alt="Rask`s Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Rask-yo" />
 <img align="center" alt="Rask`s Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rask-yo&show_icons=true&hide_border=true" />
 
 
