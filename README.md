@@ -51,6 +51,18 @@
 <img align="center" alt="Rask`s Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rask-yo" />
 
 
+
+
+---
+
+## ❤ Donating
+
+[![](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/raskyo)
+
+
+
+
+
 [website]: https://rask.tk
 [youtube]: https://www.youtube.com/channel/UC1eYZ-3az-5t2EA6tUnP92g
 [instagram]: https://instagram.com/0_rask_0
