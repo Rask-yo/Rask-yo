@@ -61,7 +61,7 @@
 
 <br />
 Profile Visits:
-![](https://profile-counter.glitch.me/kyeondiscord/count.svg)
+[![](https://profile-counter.glitch.me/rask-yo/count.svg)
 
 
 
