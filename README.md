@@ -6,7 +6,7 @@
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/0_rask_0/)
 [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC1eYZ-3az-5t2EA6tUnP92g)
 
-## I'm a Developer/Programer!!
+## I'm a Developer/Programmer!!
 
 - 🌱 I’m currently learning JavaScript 
 - 🥅 2022 Goals: Contribute more to Open Source projects
